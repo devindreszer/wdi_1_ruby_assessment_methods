@@ -6,7 +6,7 @@ end
 
 y = square(2)
 # What is the value of 'x' after this line executes?
-# nil; undefined local variable
+# undefined local variable
 
 #### Question 2
 # What is the value of `age` after we call `get_older`?
